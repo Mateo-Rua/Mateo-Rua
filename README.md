@@ -70,24 +70,24 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
     <img alt="Pytorch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+  <a href="https://numpy.org/doc/stable/" target="_blank"> 
+    <img alt="Pytorch" src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+  <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
+    <img alt="Pytorch" src="https://pandas.pydata.org/docs/_static/pandas.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+  <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
+    <img alt="Pytorch" src="https://matplotlib.org/stable/_static/logo_light.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+  <a href="https://seaborn.pydata.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+  <a href="https://docs.opencv.org/4.x/index.html" target="_blank"> 
+    <img alt="Pytorch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="50"/>
   </a>
     &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
