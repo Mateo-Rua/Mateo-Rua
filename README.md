@@ -53,7 +53,6 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 
 ### 👉 Frameworks & librerias
 <p align="left"> 
-
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="50">
