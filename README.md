@@ -2,9 +2,6 @@
 
 <h1 align="center"><b>Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!</h1>
 
-
-# ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!
-
 ¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
 
 
