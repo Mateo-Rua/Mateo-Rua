@@ -59,7 +59,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>   
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="50">
+    <img alt="Scikit Learn" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" width="50">
   </a> 
    &emsp;
   <a href="https://keras.io/" target="_blank"> 
