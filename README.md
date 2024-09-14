@@ -45,7 +45,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
   &emsp;
 <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50"/>
   </a>
 
 
