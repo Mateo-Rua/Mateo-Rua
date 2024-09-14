@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aladelca&color=blue)
 
-<h1 align="left-align"><b>Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!</h1>
+<h1 align="left-align"><b></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!</h1>
 
 ¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
 
@@ -29,5 +29,5 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 * **Analista de Ingenieria** - [JRobotics](https://jrobotics.co/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
 * **Analista de datos** - [BRM](https://www.brm.com.co/) 📊 (Industria de las telecomunicaciones) 
 * **Analista de datos** - [Chec Grupo EPM](https://www.chec.com.co/) ⚡ (Industria de la energia electrica) 
-* **Investigador y desarrollador** - [Univercodas nacional de colombia](https://minas.medellin.unal.edu.co/gruposdeinvestigacion/ignea/nosotros.html)  💻(Laboratorio Igne) 
+* **Investigador y desarrollador** - [Univercodas nacional de colombia](https://minas.medellin.unal.edu.co/gruposdeinvestigacion/ignea/nosotros.html)  💻(Laboratorio Ignea) 
 
