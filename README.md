@@ -2,7 +2,7 @@
 
 <h1 align="left-align"><b></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!</h1>
 
-¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato.
+¡Explora mi mundo de la ciencia de datos! 🙌 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato.
 
 
 ## Sobre Mi Trayectoria  🧩
@@ -19,7 +19,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 | **Institución Universitaria ITM**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Título:** Ingeniero mecatrónico<br>- **Ubicación:** Medellín, Colombia<br>- **Año de Graduación:** 2024 |
 | **Escuela Global - Colegio de Economistas del Cusco**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Título:** Data Scientist y Machine Learning Developer<br>- **Ubicación:** Lima, Perú<br>- **Año de Graduación:** 2024 |
 | **Corporación Universitaria Unisabaneta**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Título:** Especialista en Bases de Datos SQL<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2021 |
-| **platzi** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Título:** Arquitecto de Inteligencia Artificial<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2020 |
+| **Platzi** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Título:** Arquitecto de Inteligencia Artificial<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2020 |
 | **SENA**                | <img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" alt="UPC Logo" width="100"> | - **Título:** Tecnico en Sistemas de Computo<br>- **Ubicación:**   Medellín, Colombia<br>- **Año de Graduación:** 2015 |
 
 
