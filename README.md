@@ -20,7 +20,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 | **Escuela Global - Colegio de Economistas del Cusco**| <img src="https://global-wordpress2.s3.amazonaws.com/wp-content/uploads/2022/08/23212149/logo-de-escuela-global.png" alt="Logo Escuela Global" width="200" style="display: block; margin: 0 auto;">| - **Título:** Data Scientist y Machine Learning Developer<br>- **Ubicación:** Lima, Perú<br>- **Año de Graduación:** 2024 |
 | **Corporación Universitaria Unisabaneta**           | <img src="https://centrocultural.cesde.edu.co/wp-content/uploads/elementor/thumbs/Unisabaneta-pm0s8opsp0ytbbsb5voa8savhca9w5mu9avgox2cp0.jpg" alt="Adolfo Ibanez University Logo" width="200"> | - **Título:** Especialista en Bases de Datos SQL<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2021 |
 | **Platzi** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="PUCP Logo" width="200"> | - **Título:** Arquitecto de Inteligencia Artificial<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2020 |
-| **SENA**                | <img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" alt="UPC Logo" width="100"> | - **Título:** Tecnico en Sistemas de Computo<br>- **Ubicación:**   Medellín, Colombia<br>- **Año de Graduación:** 2015 |
+| **SENA**                | <img src="https://www.prensajuridica.com/media/k2/items/cache/00e65beba2fac44422db9f88c7a4f172_XL.jpg" alt="UPC Logo" width="150"> | - **Título:** Tecnico en Sistemas de Computo<br>- **Ubicación:**   Medellín, Colombia<br>- **Año de Graduación:** 2015 |
 
 
 
