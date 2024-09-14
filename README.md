@@ -26,8 +26,8 @@ Durante mi experiencia en roles de Datos y Analítica, he desarrollado solucione
 
 ## Professional Experience 💼
 
-* **Analista de Ingenieria** - [Belcorp](https://www.belcorp.biz/en/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
-* **Analista de datos** - [Belcorp](https://www.belcorp.biz/en/) 📊 (Industria de las telecomunicaciones) 
-* **Analista de datos** - [Universidad Tecnológica del Perú](https://www.utp.edu.pe/web/?utm_source=google&utm_medium=cpc&utm_campaign=consideration_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=EAIaIQobChMIi9_6xu_OgwMVLmNHAR1QUQE8EAAYASAAEgJVOvD_BwE) 🎓(Industria de la energia electrica) 
-* **Investigador y desarrollador** - [Cosapi](https://www.cosapi.com.pe/Site/Index.aspx?aID=430)  💻(Univercidad nacional de colombia) 
+* **Analista de Ingenieria** - [JRobotics](https://jrobotics.co/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
+* **Analista de datos** - [BRM](https://www.brm.com.co/) 📊 (Industria de las telecomunicaciones) 
+* **Analista de datos** - [Chec Grupo EPM](https://www.chec.com.co/) ⚡ (Industria de la energia electrica) 
+* **Investigador y desarrollador** - [Univercodas nacional de colombia](https://minas.medellin.unal.edu.co/gruposdeinvestigacion/ignea/nosotros.html)  💻(Univercidad nacional de colombia) 
 
