@@ -2,7 +2,7 @@
 
 <h1 align="left-align"><b></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!</h1>
 
-¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
+¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato.
 
 
 ## Sobre Mi Trayectoria  🧩
@@ -12,16 +12,16 @@ Apasionado por la Analítica, el Aprendizaje de maquina y la robotica, estoy ans
 
 A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he creado soluciones utilizando analítica descriptiva y predictiva con Python, SQL y herramientas de visualización de datos como Tableau y Power BI. Mi pasión por la analítica también me lleva a compartir mi conocimiento; actualmente, imparto cursos y capacitaciones en la empresa que laboro actualmente  [JRobotics](https://jrobotics.co/)  para ayudar a otros a mejorar sus habilidades en este campo.
 
-## Education 🎓
+## Educación  🎓
 
-| University                         |                                  | Information                                    |
+| Universidad                         |                                  | Información                                   |
 | ---------------------------------- | ----------------------------------------- | ---------------------------------------------- |
-| **McGill University**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Degree:** Master of Management Analytics<br>- **Location:** Montreal, Canada<br>- **Graduation Year:** 2024 |
-| **Los Andes University**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Degree:** Master of Data Intelligence<br>- **Location:** Bogotá, Colombia<br>- **Graduation Year:** 2023 |
-| **Adolfo Ibañez University**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Degree:** Master of Data Science<br>- **Location:** Santiago, Chile<br>- **Graduation Year:** 2022 |
-| **Pontifical Catholic University of Peru** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Degree:** Master of Business Administration<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2021 |
-| **Peruvian University of Applied Sciences**                | <img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" alt="UPC Logo" width="100"> | - **Degree:** Bachelor of Industrial Engineering<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2022 |
-| **ESAN University**                | <img src="esan.jpeg" alt="ESAN University Logo" width="100"> | - **Degree:** Bachelor of Organizational Psychology<br>- **Location:** Lima, Peru<br>- **Graduation Year:** 2017 |
+| **Institución Universitaria ITM**              | <img src="mcgill.png" alt="McGill University Logo" width="100"> | - **Título:** Ingeniero mecatrónico<br>- **Ubicación:** Medellín, Colombia<br>- **Año de Graduación:** 2024 |
+| **Escuela Global - colegio de economistas del cusco**           | <img src="losandes.png" alt="Los Andes University Logo" width="100"> | - **Título:** Data Scientist y Machine Learning Developer<br>- **Ubicación:** Lima, Perú<br>- **Año de Graduación:** 2024 |
+| **Corporación Universitaria Unisabaneta**           | <img src="https://carleton.ca/isso/wp-content/uploads/UAI.jpg" alt="Adolfo Ibanez University Logo" width="100"> | - **Título:** Especialista en Bases de Datos SQL<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2021 |
+| **platzi** | <img src="pucp.jpeg" alt="PUCP Logo" width="100"> | - **Título:**Arquitecto de Inteligencia Artificialr<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2020 |
+| **SENA**                | <img src="https://www.upc.edu.pe/static/img/logo_upc_red.png" alt="UPC Logo" width="100"> | - **Título:** Tecnico en Sistemas de Computo<br>- **Ubicación:**   Medellín, Colombia<br>- **Año de Graduación:** 2015 |
+
 
 
 ## Professional Experience 💼
