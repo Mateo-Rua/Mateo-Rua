@@ -5,7 +5,8 @@
 ¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
 
 
-## Summary 📊
+## Sobre Mi Trayectoria 📊
+ 
 
 Apasionado por la Analítica y el Aprendizaje Automático, estoy ansioso por desarrollar modelos de machine learning para generar impacto en los KPI empresariales. Tengo un fuerte deseo de seguir una carrera como Científico de Datos en los sectores de Consultoría, Tecnología y Retail.
 
@@ -25,10 +26,8 @@ Durante mi experiencia en roles de Datos y Analítica, he desarrollado solucione
 
 ## Professional Experience 💼
 
-* **Data Scientist** - [Belcorp](https://www.belcorp.biz/en/) 💄 (Cosmetics industry) *Mar 2022 - Present*
-* **Data Analyst** - [Belcorp](https://www.belcorp.biz/en/) 💄(Cosmetics industry) *Apr 2021 - Mar 2020*
-* **Business Intelligence Analyst** - [Universidad Tecnológica del Perú](https://www.utp.edu.pe/web/?utm_source=google&utm_medium=cpc&utm_campaign=consideration_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=EAIaIQobChMIi9_6xu_OgwMVLmNHAR1QUQE8EAAYASAAEgJVOvD_BwE) 🎓(Education industry) *Nov 2020 - Apr 2021*
-* **Business Intelligence Analyst** - [Cosapi](https://www.cosapi.com.pe/Site/Index.aspx?aID=430) 👷🏼‍♂️(Construction company) *Aug 2019 - Oct 2020*
-* **HR Data Analyst** - [Falabella Bank](https://www.bancofalabella.pe/) 🏦(Banking industry) *May 2019 - Aug 2019*
-* **Business Processes Analyst** - [Cosapi](https://www.cosapi.com.pe/Site/Index.aspx?aID=430) 👷🏼‍♂️(Construction company) *Aug 2017 - Apr 2019*
+* **Analista de Ingenieria** - [Belcorp](https://www.belcorp.biz/en/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
+* **Analista de datos** - [Belcorp](https://www.belcorp.biz/en/) 📊 (Industria de las telecomunicaciones) 
+* **Analista de datos** - [Universidad Tecnológica del Perú](https://www.utp.edu.pe/web/?utm_source=google&utm_medium=cpc&utm_campaign=consideration_todas_search_trafico_lima-provincias_aon_utp&utm_term=todas_lima-provincias_kw-exacta-utp&utm_content=rsa&gad_source=1&gclid=EAIaIQobChMIi9_6xu_OgwMVLmNHAR1QUQE8EAAYASAAEgJVOvD_BwE) 🎓(Industria de la energia electrica) 
+* **Investigador y desarrollador** - [Cosapi](https://www.cosapi.com.pe/Site/Index.aspx?aID=430)  💻(Univercidad nacional de colombia) 
 
