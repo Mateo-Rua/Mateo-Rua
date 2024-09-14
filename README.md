@@ -37,7 +37,8 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   
 
   <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="DART" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg
+" "width="50"/>
   </a>
 &emsp;
 <a href="https://python.org/">
