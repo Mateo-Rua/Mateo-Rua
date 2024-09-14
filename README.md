@@ -5,7 +5,7 @@
 ¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
 
 
-## Sobre Mi Trayectoria 📊
+## Sobre Mi Trayectoria  🧩
  
 
 Apasionado por la Analítica, el Aprendizaje de maquina y la robotica, estoy ansioso por desarrollar modelos de machine learning para generar impacto en los KPI empresariales. Tengo un fuerte deseo de seguir una carrera como Científico de Datos y Machine Learning Developer en los sectores de Consultoría, Tecnología y Retail.
