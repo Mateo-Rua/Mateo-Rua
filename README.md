@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=aladelca&color=blue)
 
-# Welcome to Coffee and Data 🚀
+# ¡Bienvenido a la Aventura de Datos y Machine Learning 🚀!
 
-Welcome to my data science realm! 👋 I'm **Adrian Alarcon**, a passionate data scientist who loves transforming raw data into actionable insights. This GitHub repository serves as a playground where I experiment with cutting-edge techniques, share my projects, and showcase my journey in the world of data.
+¡Explora mi mundo de la ciencia de datos! 👋 Soy Mateo Rua, un apasionado científico de datos y desarrollador de machine learning que ama transformar datos en bruto en conocimientos accionables. Este repositorio de GitHub sirve como un campo de pruebas donde experimento con técnicas de vanguardia, comparto mis proyectos y muestro mi trayectoria en el mundo de los dato
 
 
 ## Summary 📊
 
-Passionate about Analytics and Machine Learning, I am eager to machine learning models to generate impact in Business KPIs. I strongly desire to pursue a career as a Data Scientist in the Consulting, Technology & Retail sectors.
+Apasionado por la Analítica y el Aprendizaje Automático, estoy ansioso por desarrollar modelos de machine learning para generar impacto en los KPI empresariales. Tengo un fuerte deseo de seguir una carrera como Científico de Datos en los sectores de Consultoría, Tecnología y Retail.
 
-During my experience of +5 years in Data & Analytics roles, I have developed solutions using descriptive and predictive analytics using Python, SQL, R, and data visualization tools like Tableau and Power BI. I am also passionate about sharing my analytics knowledge, and as a result, I give lectures in Data Analytics courses at Peruvian Universities, and in other institutions worldwide.
+Durante mi experiencia en roles de Datos y Analítica, he desarrollado soluciones utilizando analítica descriptiva y predictiva con Python, SQL y herramientas de visualización de datos como Tableau y Power BI. También me apasiona compartir mi conocimiento en analítica; por ello, actualmente imparto cursos y capacitaciones en la empresa que laboro actualmente  [JRobotics](https://jrobotics.co/)  para ayudar a otros a mejorar sus habilidades en este campo.
 
 ## Education 🎓
 
