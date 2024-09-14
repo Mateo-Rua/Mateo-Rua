@@ -75,7 +75,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
     &emsp;
   <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
-    <img alt="Pytorch" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" width="40"/>
+    <img alt="Pytorch" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" width="30"/>
   </a>
     &emsp;
   <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
