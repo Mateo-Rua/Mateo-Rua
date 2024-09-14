@@ -89,10 +89,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   <a href="https://docs.opencv.org/4.x/index.html" target="_blank"> 
     <img alt="Pytorch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="50"/>
   </a>
-    &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
-  </a>
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
