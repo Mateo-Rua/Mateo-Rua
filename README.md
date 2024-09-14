@@ -22,14 +22,14 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 | **Platzi** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="PUCP Logo" width="200"> | - **Título:** Arquitecto de Inteligencia Artificial<br>- **Ubicación:**  Medellín, Colombia<br>- **Año de Graduación:** 2020 |
 | **SENA**                | <img src="https://senasofiapluss.com/wp-content/uploads/2022/10/logo-del-sena-negro-1024x1024.jpg" alt="UPC Logo" width="150"> | - **Título:** Tecnico en Sistemas de Computo<br>- **Ubicación:**   Medellín, Colombia<br>- **Año de Graduación:** 2015 |
 
-## Professional Experience 💼
+## Experiencia Profesional 💼
 
 * **Analista de Ingenieria** - [JRobotics](https://jrobotics.co/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
 * **Analista de datos** - [BRM](https://www.brm.com.co/) 📊 (Industria de las telecomunicaciones) 
 * **Analista de datos** - [Chec Grupo EPM](https://www.chec.com.co/) ⚡ (Industria de la energia electrica) 
 * **Investigador y desarrollador** - [Univercodas nacional de colombia](https://minas.medellin.unal.edu.co/gruposdeinvestigacion/ignea/nosotros.html)  💻(Laboratorio Ignea)
 
-## 🛠️ My Skills
+## My Skills 🛠️
 
 ### 👉 Programming languages
 
