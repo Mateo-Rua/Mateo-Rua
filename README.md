@@ -63,11 +63,11 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a> 
    &emsp;
   <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" width="50"/>
+    <img alt="Keras" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png?20200317115153" width="50"/>
   </a>
   &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="50"/>
+    <img alt="Pytorch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="50"/>
   </a>
     &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
