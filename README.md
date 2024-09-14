@@ -71,7 +71,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
     &emsp;
   <a href="https://numpy.org/doc/stable/" target="_blank"> 
-    <img alt="Pytorch" src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="50"/>
+    <img alt="Pytorch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1VDmnQ8EqlGggq6cqSS32p_lVtrHBdn7t-9aDYTP0M6oisqyrUPy_z8mJsTlTQbirG0" width="50"/>
   </a>
     &emsp;
   <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
