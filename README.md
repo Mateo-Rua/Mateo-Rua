@@ -83,7 +83,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
     &emsp;
   <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50"/>
+    <img alt="Pytorch" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50"/>
   </a>
     &emsp;
   <a href="https://docs.opencv.org/4.x/index.html" target="_blank"> 
