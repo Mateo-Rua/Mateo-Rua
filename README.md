@@ -41,7 +41,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
 &emsp;
 <a href="https://python.org/">
-    <img alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg "width="10" />
+    <img alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg "width="50" />
   </a>
   &emsp;
 <a href="https://www.java.com/en/">
