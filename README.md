@@ -8,9 +8,9 @@
 ## Sobre Mi Trayectoria 📊
  
 
-Apasionado por la Analítica y el Aprendizaje Automático, estoy ansioso por desarrollar modelos de machine learning para generar impacto en los KPI empresariales. Tengo un fuerte deseo de seguir una carrera como Científico de Datos en los sectores de Consultoría, Tecnología y Retail.
+Apasionado por la Analítica, el Aprendizaje de maquina y la robotica, estoy ansioso por desarrollar modelos de machine learning para generar impacto en los KPI empresariales. Tengo un fuerte deseo de seguir una carrera como Científico de Datos en los sectores de Consultoría, Tecnología y Retail.
 
-Durante mi experiencia en roles de Datos y Analítica, he desarrollado soluciones utilizando analítica descriptiva y predictiva con Python, SQL y herramientas de visualización de datos como Tableau y Power BI. También me apasiona compartir mi conocimiento en analítica; por ello, actualmente imparto cursos y capacitaciones en la empresa que laboro actualmente  [JRobotics](https://jrobotics.co/)  para ayudar a otros a mejorar sus habilidades en este campo.
+Durante mi experiencia en roles de Datos, Analítica y desarrollo, he desarrollado soluciones utilizando analítica descriptiva y predictiva con Python, SQL y herramientas de visualización de datos como Tableau y Power BI. También me apasiona compartir mi conocimiento en analítica; por ello, actualmente imparto cursos y capacitaciones en la empresa que laboro actualmente  [JRobotics](https://jrobotics.co/)  para ayudar a otros a mejorar sus habilidades en este campo.
 
 ## Education 🎓
 
