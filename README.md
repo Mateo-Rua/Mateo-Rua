@@ -75,11 +75,11 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   </a>
     &emsp;
   <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
-    <img alt="Pytorch" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" width="25"/>
+    <img alt="Pytorch" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" width="30"/>
   </a>
     &emsp;
   <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
-    <img alt="Pytorch" src="https://matplotlib.org/stable/_static/logo_light.svg" width="50"/>
+    <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408" width="50"/>
   </a>
     &emsp;
   <a href="https://seaborn.pydata.org/" target="_blank"> 
