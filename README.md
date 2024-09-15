@@ -101,9 +101,9 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"></a>
   &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" width="70"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" width="80"></a>
    &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" width="70"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" width="80"></a>
    &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50"></a>
  </p>
