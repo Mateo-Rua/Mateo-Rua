@@ -119,7 +119,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   &emsp;
     <a href="#"><img alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"  width="50"></a>
   &emsp;
-    <a href="#"><img alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png"  width="50"></a>
+    <a href="#"><img alt="Google Colab" src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?resize=260%2C160&ssl=1"  width="50"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"  width="50"></a>
   &emsp;
