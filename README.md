@@ -36,17 +36,17 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 <p align="left"> 
   
 
-<a href="https://dart.dev/">
+<a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/">
     <img alt="DART" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="50"/>
  </a> 
 &emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg "width="50" />
-  </a>
+ </a>
   &emsp;
-<a href="https://www.java.com/en/">
+<a href="https://la.mathworks.com/products/matlab.html">
     <img alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50"/>
-  </a>
+ </a>
 
 
 </p>
@@ -54,11 +54,11 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 ### 👉 Frameworks & librerias
 <p align="left"> 
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
+  <a href="https://www.tensorflow.org/?hl=es-419" target="_blank"> 
    <img alt="TensorFlow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="50">
   </a>   
   &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/stable/" target="_blank">
     <img alt="Scikit Learn" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" width="50">
   </a> 
    &emsp;
@@ -74,11 +74,11 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
     <img alt="Pytorch" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1VDmnQ8EqlGggq6cqSS32p_lVtrHBdn7t-9aDYTP0M6oisqyrUPy_z8mJsTlTQbirG0" width="50"/>
   </a>
     &emsp;
-  <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> 
+  <a href="https://pandas.pydata.org/" target="_blank"> 
     <img alt="Pytorch" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" width="30"/>
   </a>
     &emsp;
-  <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
+  <a href="https://matplotlib.org/" target="_blank"> 
     <img alt="Pytorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png?20150219130408" width="50"/>
   </a>
     &emsp;
@@ -86,7 +86,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
     <img alt="Pytorch" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50"/>
   </a>
     &emsp;
-  <a href="https://docs.opencv.org/4.x/index.html" target="_blank"> 
+  <a href="https://opencv.org/" target="_blank"> 
     <img alt="Pytorch" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" width="50"/>
   </a>
 
@@ -95,19 +95,19 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50"></a>
+    <a href="https://www.microsoft.com/es-co/sql-server/sql-server-downloads"><img alt="MySQL" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50"/></a>
+    <a href="https://www.postgresql.org/"><img alt="SQLite" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"></a>
+    <a href="https://github.com/Mateo-Rua/Mateo-Rua/edit/main/README.md"><img alt="GitHub Pages" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"></a>
   &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" width="80"></a>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi"><img alt="Firebase" src ="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" width="80"></a>
    &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" width="80"></a>
+<a href="https://www.tableau.com/es-es"><img alt="Firebase" src ="https://teorema-rd.com/wp-content/uploads/2024/04/Tableau-Emblem.png" width="80"></a>
    &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50"></a>
+<a href="https://cloud.google.com/?hl=es"><img alt="Firebase" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50"></a>
    &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://1000marcas.net/wp-content/uploads/2020/11/Moodle-logo-600x244.png" width="90"></a>
+<a href="https://moodle.org/?lang=es"><img alt="Firebase" src ="https://1000marcas.net/wp-content/uploads/2020/11/Moodle-logo-600x244.png" width="90"></a>
  </p>
 
  ### 👉 Software & Tools
