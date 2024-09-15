@@ -131,7 +131,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
      &emsp;
     <a href="#"><img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg"  width="50"></a>
      &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"  width="50"></a>
+    <a href="#"><img alt="AWS" src="https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png"  width="50"></a>
 
     &emsp;
     
