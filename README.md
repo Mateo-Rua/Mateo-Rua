@@ -107,7 +107,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
    &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" width="50"></a>
    &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://1000marcas.net/wp-content/uploads/2020/11/Moodle-logo-600x244.png" width="50"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://1000marcas.net/wp-content/uploads/2020/11/Moodle-logo-600x244.png" width="80"></a>
  </p>
 
  ### 👉 Software & Tools
