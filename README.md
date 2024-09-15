@@ -99,7 +99,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="SQLite" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50"/></a>
   &emsp;
-    <a href="https://github.com/Mateo-Rua/Mateo-Rua/edit/main/README.md"><img alt="GitHub Pages" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"></a>
+    <a href="https://github.com/Mateo-Rua"><img alt="GitHub Pages" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50"></a>
   &emsp;
 <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi"><img alt="Firebase" src ="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" width="80"></a>
    &emsp;
@@ -136,7 +136,13 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
     <a href="https://www.spyder-ide.org/"><img alt="AWS" src="https://www.i2tutorials.com/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png"  width="60"></a>
 
     &emsp;
-    
+
+ ### ¡Conectemos! 🌐
+
+ Estoy siempre disponible para colaborar y compartir ideas. No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/carlosadrianalarcon/?locale=en_US) ¡Descubramos juntos el apasionante universo de la ciencia de datos! 🌍✨
+
+
+
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
