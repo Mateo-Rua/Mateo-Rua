@@ -115,25 +115,25 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 <p>
 
   &emsp;
-    <a href="#"><img alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"  width="50"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"  width="50"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"  width="50"></a>
+    <a href="https://www.inf.uva.es/instalacion-del-sistema-operativo-linux/"><img alt="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"  width="50"></a>
   &emsp;
-    <a href="#"><img alt="Google Colab" src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?resize=260%2C160&ssl=1"  width="80"></a>
+    <a href="https://colab.google/"><img alt="Google Colab" src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?resize=260%2C160&ssl=1"  width="80"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"  width="50"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"  width="50"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg"  width="50"></a>
+    <a href="https://visualstudio.microsoft.com/es/"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg"  width="50"></a>
 &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"  width="50"></a>
+    <a href="https://www.arduino.cc/"><img alt="Stack Overflow" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg"  width="50"></a>
     &emsp;
-    <a href="#"><img alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Anaconda-Dark.svg"  width="50"></a>
+    <a href="https://www.anaconda.com/download"><img alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Anaconda-Dark.svg"  width="50"></a>
      &emsp;
-    <a href="#"><img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg"  width="50"></a>
+    <a href="https://www.raspberrypi.com/"><img alt="Postman" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg"  width="50"></a>
      &emsp;
-    <a href="#"><img alt="AWS" src="https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png"  width="60"></a>
+    <a href="https://jupyter.org/"><img alt="AWS" src="https://numfocus.org/wp-content/uploads/2016/07/jupyter-logo-300.png"  width="60"></a>
      &emsp;
-    <a href="#"><img alt="AWS" src="https://www.i2tutorials.com/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png"  width="60"></a>
+    <a href="https://www.spyder-ide.org/"><img alt="AWS" src="https://www.i2tutorials.com/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png"  width="60"></a>
 
     &emsp;
     
