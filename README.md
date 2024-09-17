@@ -35,10 +35,6 @@ En el grupo de investigación de Fotónica e Inteligencia Artificial del [ITM](h
 Comparto el enlace de la publicación: [CYCLOPS: A cyclists’ orientation data acquisition system using RGB camera and inertial measurement units (IMU)](https://www.hardware-x.com/article/S2468-0672(24)00028-2/fulltext), 
 
 
-
- Estoy siempre disponible para colaborar y compartir ideas. No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/mateo-londono-rua117) ¡Descubramos juntos el apasionante universo de la ciencia de datos! 🌍✨
-
-
 ## My Skills 🛠️
 
 ### 👉 Lenguajes de programación
