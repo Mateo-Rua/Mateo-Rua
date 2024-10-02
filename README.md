@@ -144,7 +144,7 @@ Comparto el enlace de la publicación: [CYCLOPS: A cyclists’ orientation data 
 
  ## ¡Conectemos! 🌐
 
- Estoy siempre disponible para colaborar y compartir ideas. No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/mateo-londono-rua117) ¡Descubramos juntos el apasionante universo de la ciencia de datos! 🌍✨
+ Estoy siempre disponible para colaborar y compartir ideas. No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/mateo-londono-rua117/) ¡Descubramos juntos el apasionante universo de la ciencia de datos! 🌍✨
 
 
 
