@@ -29,7 +29,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 * **Analista de datos** - [Chec Grupo EPM](https://www.chec.com.co/) ⚡ (Industria de la energia electrica) 
 * **Investigador y desarrollador** - [Univercodas nacional de colombia](https://minas.medellin.unal.edu.co/gruposdeinvestigacion/ignea/nosotros.html)  💻(Laboratorio Ignea)
   
- ## Publicaciones Científicas 🏅📖
+ ## Producción Científica 🏅📖
 En el grupo de investigación de Fotónica e Inteligencia Artificial del [ITM](https://www.itm.edu.co/investigacion/), desarrollamos el proyecto CYCLOPS, del cual surgió la publicación de un artículo científico en la revista indexada [HardwareX](https://www.hardware-x.com/). Esta es una revista multidisciplinaria, de acceso abierto y revisada por pares, que se especializa en artículos sobre el diseño, construcción y personalización de dispositivos y equipos científicos.
 
 Comparto el enlace de la publicación: [CYCLOPS: A cyclists’ orientation data acquisition system using RGB camera and inertial measurement units (IMU)](https://www.hardware-x.com/article/S2468-0672(24)00028-2/fulltext).
