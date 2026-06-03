@@ -24,6 +24,7 @@ A lo largo de mi experiencia en roles de Datos, Analítica y Desarrollo, he crea
 
 ## Experiencia Profesional 💼
 
+* **Cientifico de datos** - [Emtelco](https://emtelco.com.co/extranet/index.php/)  🔍 (IA generativa,agentes IA,analitica,machine learning,deep learning)
 * **Desarrollador IA** - [JRobotics](https://jrobotics.co/)  🤖 (Robotica,ciencia de datos,vision artificial,machine learning,deep learning)
 * **Analista de datos** - [BRM](https://www.brm.com.co/) 📊 (Industria de las telecomunicaciones) 
 * **Analista de datos** - [Chec Grupo EPM](https://www.chec.com.co/) ⚡ (Industria de la energia electrica) 
